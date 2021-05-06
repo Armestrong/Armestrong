@@ -38,14 +38,6 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## Pins Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=resale_api)](https://github.com/Armestrong/resale_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=project_agenda_py)](https://github.com/Armestrong/project_agenda_py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=Fraudes_em_cartoes_de_credito)](https://github.com/Armestrong/Fraudes_em_cartoes_de_credito)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=data_science_doenca_cardiovascular)](https://github.com/Armestrong/data_science_doenca_cardiovascular) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=project_blog_py)](https://github.com/Armestrong/project_blog_py) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armestrong&repo=deploy_preco_imoveis_sp)](https://github.com/Armestrong/deploy_preco_imoveis_sp) 
-
 ## Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armestrong&layout=compact&hide=HTML,javascript)](https://github.com/Armestrong/github-readme-stats)
 
