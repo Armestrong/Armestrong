@@ -1,5 +1,5 @@
 # Hi, I'm Armestrong 👋🏾
-![image](https://user-images.githubusercontent.com/28534567/117353185-343a0380-ae86-11eb-9245-e2093e77cf82.png)
+![image](https://user-images.githubusercontent.com/28534567/117364920-ebd61200-ae94-11eb-9ba2-c32c129fc66d.png)
 
 I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Administração Paulista) as Analystic and Developer of Systems in 2019. Currently, I'm Back-end and Front-end Developer and Data Scientist. Python lover. Learning how to ask good questions.
 
