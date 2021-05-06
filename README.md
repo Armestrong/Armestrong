@@ -3,7 +3,7 @@
 
 I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Administração Paulista) as Analystic and Developer of Systems in 2019. Currently, I'm Back-end and Front-end Developer and Data Scientist. Python lover. Learning how to ask good questions.
 
-## Technologies that I am currently using.
+## Technologies that I am currently using
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -25,7 +25,7 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-## Technologies that i have knowledge.
+## Technologies that i have knowledge
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -44,6 +44,6 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 ## Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armestrong&layout=compact&hide=HTML,javascript)](https://github.com/Armestrong/github-readme-stats)
 
-## Contact.
+## Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/a-calazans/)
 
