@@ -39,7 +39,7 @@ I'm 22 years old and i was gradueted on FIAP (Faculdade de Informatica e Adminis
 
 
 ## Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armestrong&layout=compact&hide=HTML,javascript)](https://github.com/Armestrong/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HickAndrade&show_icons=true&theme=radical)
 
 ## Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-calazans/)
